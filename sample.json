@@ -146,6 +146,158 @@
                     "",
                     "The cross trained resources have helped reduce cost and increased productivity of the team."
                 ]
+            },
+            {
+                "id": "3",
+                "type": "s",
+                "card_content": "After waiting for three months, the HR team assigned you two resources for a customer service role out of your original request for 4 resources. The two resources have now been on the job for 3 months but are not showing the learning curve you expect. In this difficult rec}uitment scenario what will you do?",
+                "option": [
+                    "Try and speak with e associates, and understand the reason for not being able to come up the learning curve, giving a very stermmessage of zero tolerance towards lethargy and non- performance. Also, in the meangme do all the customer handling yourself to ensure",
+                    "Pair them up with a buddy & monitor progress for the next 3 months.",
+                    "Study the developmental gaps & nominate them for related training. Also ensure regular coaching & feedback to help them come up the learning curve.",
+                    "Seek help from HR to align them to other teams and do fresh hiring for these two positions."
+                ],
+                "feedback": [
+                    "May not work well with the team member, as there is a clear message to leave &  may create lot of negativity around. May work well at customer front since manager gets directly involved at customer dealings . May have a positive impact at a business front because of exit of under performer, which otherwise was a liability.",
+                    "A positive impact at people front, because of an opportunity given to the team member to improve. From business standpoint, it leads to Cost saving  / effort / time related to hiring / training etc. The customer may have a neutral effect as it is being handled by the team member under supervision. ",
+                    "A positive impact at people front, as there is  structured plan to help team member to come up the learning curve with Training & Coaching support. Business may have positive impact incase the performance of individual improves as it helps saving cost / effort / time related to hiring / training etc. No effect at customer front due to no change in the outcome.",
+                    "May  have a negative impact on the team member's morale, leading to negativity, bringing down the people score. Negative Business impact as the team member may be forced  fit into another role leading to mis match of his/her skills effecting his own/ department performance."
+                ],
+                "score_customer": [
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "score_people": [
+                    "-1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "score_business": [
+                    "1",
+                    "1",
+                    "0",
+                    "-1"
+                ],
+                "long_term_impact_after_week": [
+                    "3",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "-2",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "As you were doing customer handling directly, your team did not build trust with customers. You cannot handle customers directly anymore as you are busy otherwise and your team is unable to meet their expectations. Some customers shift business to your competitors.",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "4",
+                "type": "c",
+                "card_content": "This is a sample Chance Card 1",
+                "option": [],
+                "feedback": [
+                    "This is the feedback of sample Situation Card 1 A"
+                ],
+                "score_customer": [
+                    "1"
+                ],
+                "score_people": [
+                    "1"
+                ],
+                "score_business": [
+                    "1"
+                ],
+                "long_term_impact_after_week": [],
+                "long_term_impact_on_customer": [],
+                "long_term_impact_on_people": [],
+                "long_term_impact_on_business": []
+            },
+            {
+                "id": "5",
+                "type": "s",
+                "card_content": "You have a role in your team that is related to customer service which no one wants to do as its monotonous and has high stakes involved due to penalties attached if a customer escalates the situation due to dissatisfaction. You do not have the budget to recruit a new person for this role, hence need to assign it to some existing team member. Which of the team members would you assign the role to?",
+                "option": [
+                    "A team member, who is very efficient in his work and many a times goes beyond the call of duty to help the customers. However, gets extremely aggressive with internal team members to get his issue resolved.",
+                    "A team member, who is customer focused, deals with work pressure effectively & is collaborative in his approach. Tends to avoid conflict with team members.",
+                    "A team member, who is very efficient in his work and many a times goes beyond the call of duty to help the customers. However, gets extremely aggressive with internal team members to get his issue resolved.",
+                    "A team member, who is self-motivated, takes every job, even the monotonous ones, as challenges. He is extremely customer focused & deals with conflicting situations effectively. But, sometimes can get troubled by work pressure & shies away from new challenges."
+                ],
+                "feedback": [
+                    "Choosing Team Member  A,  may lead to internal team conflicts, which may  consume lot of time /energy/ effort in maintaining Harmony within Team , hence effecting people score negatively. May have a positive customer impact as the Team member, goes beyond the call of duty to create customer delight. Neutral business impact as there is not direct financial loss/ or gain.",
+                    "Team Member B may seem to deal positively with team members, his need for affiliation seems to  too high, which may result in not pushing his/her peers when required, impacting the timelines.  Hence, Positive on people & negative on Customer. While business may be neutral with no impact.",
+                    "Neutral effect on people. Negative impact at customer front purely due to nature of work (routine task) & he may not take things to closure impacting the customer score. Positive impact on business, as he may bring in new ideas which can be cost effective or improve process efficiency.",
+                    "Neutral effect on people. Scores high on customer , as despite of the monotonous job, the Team member will take things to closure leading to customer delight.  Negative business score as No contribution towards any sort of process improvement initiatives to drive business excellency. "
+                ],
+                "score_customer": [
+                    "-1",
+                    "-1",
+                    "-1",
+                    "1"
+                ],
+                "score_people": [
+                    "-1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                "score_business": [
+                    "0",
+                    "0",
+                    "1",
+                    "-1"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "2",
+                    "3",
+                    "2"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "-1"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "-1",
+                    "-1",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "In his bid to avoid conflict with team members, he does not escalate customer issues and they linger on. As such, business with them suffers.",
+                    "The nature of customer service is monotonous. Your team member is bored and is unable to give his 100%. Hence business suffers. ",
+                    "As he shies away from challenges, he does not take up stretch demands of customers and leaves them feeling dissatisfied."
+                ]
             }
         ],
         "group": [
