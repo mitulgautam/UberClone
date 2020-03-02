@@ -20,157 +20,145 @@
             {
                 "id": "1",
                 "type": "s",
-                "card_content": "You have joined a new organization 3 months ago. Your previous organization where you worked for 5 years, had a different work culture. The pace of work was very fast, processes were mature and people valued each other's time, meetings started on time and ended on mne etc. Thoughyou love your role and the brand of your current organization, you are in this constant state of frustration due to the work culture, what will you do?",
+                "card_content": "This is a sample Situation Card 1",
                 "option": [
-                    "Keep patience, wait and watch, try to mould & adapt yourself to thegulture of the organization.",
-                    "Speak to HR and ask them to run workshops to train people better.",
-                    "Try and start building the culture first within your own team and try to bring in the positives, discipline, processes within your team. Also, incentivize and recognize people displaying the change in attitude and behaviour.",
-                    "Wait & observe who in the leadership team share or appreciate the same values & take them into confidence to drive change."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May not work well at people front, as you may be viewed as a submissive leader & the team may not be able to look up you as a Change Driver. Neutral impact on customer & business as it is being at its usual.",
-                    "May go well at people front as the team manager may be perceived as being sensitive towards the laid-back culture and is at least being proactive towards initiating the first step to reach out to HR to bring about a change for good. ",
-                    "A win – win option at all fronts. People because you are viewed as a strong leader & take the team along to bring about a change at organizational level. Customer because promptness to deal with deliverables creates a “WOW” factor and Business because you may be able to drive business excellency by improved productivity efficiency & team reputation.",
-                    "May have a neutral effect at all fronts, as it is a slow process & may or may not contribute in bringing about a change."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
                     "1",
                     "1",
-                    "0"
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
             },
             {
                 "id": "2",
                 "type": "s",
-                "card_content": "You are managing a team of 6 people with different performance level, some are top performers, some medium & few low performers. Recently you had an annual budget meeting & in the meeting it was directed that the budget foc your department is reduced & you need to lay off two people.- The same is happening across your organization. What would you do in this situation?",
+                "card_content": "This is a sample Situation Card 2",
                 "option": [
-                    "Will speak to the concerned employees and assure them that you would try your best to get them a good job elsewhere or givegood recommendation for them.",
-                    "You will fight with the management, to get the minimum acceptable cost for the resources and will try to speak to them if they are willing to work with pay cuts until they get a job.",
-                    "Convince the management to retain the employees & assure them to not hire any backfill in case of any volume attrition In the team.",
-                    "You will propose to the management that the resources can be cross trained and they can later be explored as common pool between other departments."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May seem like a negative option at People front as there is a clear instruction of letting the team member go. However, there seems to be a positive impact at business front from the perspective of headcount budget saving & elimination of under performer, which can directly impact the overall productivity of the team & intern function/Department.                    ",
-                    "The option may have a neutral effect at people front, because, while their job is saved but with a pay cut. The business may have a negative impact due to still accounting for a additional HC & dealing with under-performance.",
-                    "The retention may seem like a positive impact at people front, however the business still suffers because of additional cost & low individual productivity.",
-                    "A win- win situation at all fronts- Retention & Job Security ( People) , Cross trained resources which saves time, efforts & Training/Hiring cost (Business ) , Positive impact on internal / external customer/ stakeholder leading to customer satisfaction & retention as the individuals are equipped & doing the right job as per their skill sets."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
-                    "0",
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
-                "score_people": [
-                    "-1",
-                    "0",
+                "score_person": [
+                    "1",
+                    "1",
                     "1",
                     "1"
                 ],
                 "score_business": [
                     "1",
-                    "-1",
-                    "-1",
-                    "0"
-                ],
-                "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0",
-                    "3"
-                ],
-                "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0",
+                    "1",
+                    "1",
                     "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "",
-                    "The cross trained resources have helped reduce cost and increased productivity of the team."
-                ]
+                "long_term_impact_after_week": [
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "long_term_impact_on_customer": [
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "long_term_impact_on_people": [
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "long_term_impact_on_business": [
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
             },
             {
                 "id": "3",
                 "type": "s",
-                "card_content": "After waiting for three months, the HR team assigned you two resources for a customer service role out of your original request for 4 resources. The two resources have now been on the job for 3 months but are not showing the learning curve you expect. In this difficult rec}uitment scenario what will you do?",
+                "card_content": "This is a sample Situation Card 3",
                 "option": [
-                    "Try and speak with e associates, and understand the reason for not being able to come up the learning curve, giving a very stermmessage of zero tolerance towards lethargy and non- performance. Also, in the meangme do all the customer handling yourself to ensure",
-                    "Pair them up with a buddy & monitor progress for the next 3 months.",
-                    "Study the developmental gaps & nominate them for related training. Also ensure regular coaching & feedback to help them come up the learning curve.",
-                    "Seek help from HR to align them to other teams and do fresh hiring for these two positions."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May not work well with the team member, as there is a clear message to leave &  may create lot of negativity around. May work well at customer front since manager gets directly involved at customer dealings . May have a positive impact at a business front because of exit of under performer, which otherwise was a liability.",
-                    "A positive impact at people front, because of an opportunity given to the team member to improve. From business standpoint, it leads to Cost saving  / effort / time related to hiring / training etc. The customer may have a neutral effect as it is being handled by the team member under supervision. ",
-                    "A positive impact at people front, as there is  structured plan to help team member to come up the learning curve with Training & Coaching support. Business may have positive impact incase the performance of individual improves as it helps saving cost / effort / time related to hiring / training etc. No effect at customer front due to no change in the outcome.",
-                    "May  have a negative impact on the team member's morale, leading to negativity, bringing down the people score. Negative Business impact as the team member may be forced  fit into another role leading to mis match of his/her skills effecting his own/ department performance."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
                     "1",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
+                    "1",
                     "1",
                     "1",
                     "1"
@@ -178,39 +166,33 @@
                 "score_business": [
                     "1",
                     "1",
-                    "0",
-                    "-1"
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "3",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "-2",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "As you were doing customer handling directly, your team did not build trust with customers. You cannot handle customers directly anymore as you are busy otherwise and your team is unable to meet their expectations. Some customers shift business to your competitors.",
-                    "",
-                    "",
-                    ""
-                ]
             },
             {
                 "id": "4",
@@ -223,7 +205,7 @@
                 "score_customer": [
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1"
                 ],
                 "score_business": [
@@ -237,187 +219,179 @@
             {
                 "id": "5",
                 "type": "s",
-                "card_content": "You have a role in your team that is related to customer service which no one wants to do as its monotonous and has high stakes involved due to penalties attached if a customer escalates the situation due to dissatisfaction. You do not have the budget to recruit a new person for this role, hence need to assign it to some existing team member. Which of the team members would you assign the role to?",
+                "card_content": "This is a sample Situation Card 5",
                 "option": [
-                    "A team member, who is very efficient in his work and many a times goes beyond the call of duty to help the customers. However, gets extremely aggressive with internal team members to get his issue resolved.",
-                    "A team member, who is customer focused, deals with work pressure effectively & is collaborative in his approach. Tends to avoid conflict with team members.",
-                    "A team member, who is very efficient in his work and many a times goes beyond the call of duty to help the customers. However, gets extremely aggressive with internal team members to get his issue resolved.",
-                    "A team member, who is self-motivated, takes every job, even the monotonous ones, as challenges. He is extremely customer focused & deals with conflicting situations effectively. But, sometimes can get troubled by work pressure & shies away from new challenges."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "Choosing Team Member  A,  may lead to internal team conflicts, which may  consume lot of time /energy/ effort in maintaining Harmony within Team , hence effecting people score negatively. May have a positive customer impact as the Team member, goes beyond the call of duty to create customer delight. Neutral business impact as there is not direct financial loss/ or gain.",
-                    "Team Member B may seem to deal positively with team members, his need for affiliation seems to  too high, which may result in not pushing his/her peers when required, impacting the timelines.  Hence, Positive on people & negative on Customer. While business may be neutral with no impact.",
-                    "Neutral effect on people. Negative impact at customer front purely due to nature of work (routine task) & he may not take things to closure impacting the customer score. Positive impact on business, as he may bring in new ideas which can be cost effective or improve process efficiency.",
-                    "Neutral effect on people. Scores high on customer , as despite of the monotonous job, the Team member will take things to closure leading to customer delight.  Negative business score as No contribution towards any sort of process improvement initiatives to drive business excellency. "
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "-1",
-                    "-1",
-                    "-1",
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
                     "1",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "0",
-                    "0",
                     "1",
-                    "-1"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "2",
-                    "3",
-                    "2"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "-1"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "-1",
-                    "-1",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "In his bid to avoid conflict with team members, he does not escalate customer issues and they linger on. As such, business with them suffers.",
-                    "The nature of customer service is monotonous. Your team member is bored and is unable to give his 100%. Hence business suffers. ",
-                    "As he shies away from challenges, he does not take up stretch demands of customers and leaves them feeling dissatisfied."
-                ]
             },
             {
                 "id": "6",
                 "type": "s",
-                "card_content": "You have a high-pressure job with a very ambitious sales target set for your team.. Your team has been consistently performing well and meeting the. targets in the last two quarter. It has however, come to your notice that dueto the pressure your team members have been overpromisingto customers or sometimes mis-selling. What will you do?",
+                "card_content": "This is a sample Situation Card 6",
                 "option": [
-                    "Getinto a team meeting and strictly enforce intolerance towards mis-selling explaining consequences of it on a larger business landscape.",
-                    "Set a robust process, to mitigate mis-selling, which could also result in increasing the TAT for the closure of thesale, but helps in keeping up the brand image.",
-                    "Take serious action against one of the team member out of all, to set example among others."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "Negative impact at people front, because of one way communication style rather than, diving deep into the facts & identifying mis-selling trigger's and taking appropriate corrective action. Neutral effect on customer. Business may have a negative impact due to loss of customer's due to mis-spelling.",
-                    "May have a positive impact from People and business perspective. People because of increased TAT to meet the  targets & business because of improved brand reputation. Neutral effect at customer front. ",
-                    "May have a negative impact at people & business front. People because of fear & lack of knowledge behind the rational, can be perceived as being biased as only one team member is getting penalized. Business because of loss of reputation & productivity loss "
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
                     "1",
-                    "-1"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "-1",
                     "1",
-                    "-1"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "2",
-                    "0",
-                    "2"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
                     "1",
-                    "0",
-                    "2"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
                     "1",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "As the process for enforcing strict rules of selling are enforced, there is better customer satisfaction and overall business margin picks up. ",
-                    "",
-                    "While the internal team gets demotivated, customers are really happy about your ethical standards and build confidence in you."
-                ]
             },
             {
                 "id": "7",
                 "type": "s",
-                "card_content": "The promotion cycle is around the corner & as per the HR guidelines only one of your team member can get promoted. However, there are two team members, who are eligible to get evaluated for the promotion. Both the team members are equally talented & are extremely critical to the team. It is mandatory for you to promote one from the team & there is no scope for an exception in the HR policy, What will you do?",
+                "card_content": "This is a sample Situation Card 7",
                 "option": [
-                    "Have a one on one with each and tactually discuss the assessment as well as the policy in play, while communicating the promotion or no promotion decision to the respective team merp&er.",
-                    "Propose perks to the other performer who did not get promoted e.g. foreign project, learning opportunity, some platform for leveraging his potential etc as means to balance and motivate the person.",
-                    "Since this is very tricky situation, hence, inform once the promotion results are out & then counsel the member who did not get promoted. Additionally, try to work out a functional promotion for the performer, even if designation may not be formally assigned and allow the team member to understand you recognize his work.",
-                    "Speak to the HR & other stakeholder, give him a challenging and high visibility business project and promise him that he will get promotion next year if he performs well."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "The team member, who didn't get promoted will get demotivated & may question the  PMS process & system, effecting people score. Customer & business may have neutral effect.",
-                    "Positive people impact, as he/she is getting awarded / recognized in some way, if not promotion. Customer & business may not have any direct impact.",
-                    "Neutral effect at people front. while he didn't receive a formal promotion in interms of level but he gets a functional promotion, somewhere it nullifies the impact. Business & Customer has a positive impact as the team member works in the same team, with slightly higher motivation, leading to good customer experience & may increase the business volumes .",
-                    "Neutral people impact,  as there is no guaranteed promotion next year however, he gets a chance to be part of the important project which may have a positive impact at business & customer front , because he is a performing resource."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
+                    "1",
+                    "1",
                     "1",
                     "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
                     "1",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "0",
-                    "0",
+                    "1",
+                    "1",
                     "1",
                     "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
             },
             {
                 "id": "8",
@@ -430,7 +404,7 @@
                 "score_customer": [
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1"
                 ],
                 "score_business": [
@@ -444,132 +418,120 @@
             {
                 "id": "9",
                 "type": "s",
-                "card_content": "It has been announced that your department will be merged with another department. This announcement, creates a lot of unrest within the team. Though you are a team manager, however, you still do not have enough information, to handle the queries of the team members, since there is a lot of ambiguity around. This news is creating alot of chaos in the team as there are many speculations about the job loss, 'change in role & structure, management change etc. Some ot the information may not be even true. However, it is stillsreating a panic within the team. What would you do to handle this situation to manage the panic?",
+                "card_content": "This is a sample Situation Card 9",
                 "option": [
-                    "Send a mail to all, asking them to not panic and reach out to you individually.",
-                    "Have one on one with a few influencers in the team and pass on the right feelers so others get the message.",
-                    "Address the concern in a town hall, with management sharing reasons for the change & future.",
-                    "Take team out for lunch to release the tension and informally have a Q&A organized to address the concerns."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "Negative impact at people, as lot of questions remain unanswered , can lead to unhealthy assumptions / grapevine, leading to choes at people front. While it may not have an direct impact at customer end, however, Business can witness unrest because of the internal shuffling",
-                    "Negative at people front, as no direct communication can lead to uncertainly, also the messaging can vary depending upon the understanding of the influencers, hence many interpretations floating around. It may not have  direct customer/ business impact.",
-                    "Direct communication at townhall can have a neutral effect at all fronts.",
-                    "Allowing the team to ask questions without fear, giving importance to their concerns & addressing them can have positive affect on people as they feel valued. Business may have a positive impact as it may put rest to a lot of unnecessary rumours effectiviting the productivity of the team"
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "-1",
-                    "-1",
-                    "0",
+                "score_person": [
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
                 "score_business": [
-                    "-1",
-                    "0",
-                    "0",
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
             },
             {
                 "id": "10",
                 "type": "s",
-                "card_content": "One of your team member is extreme& talented and is very good performer. However, he is little reserved. He has been assigned a stakeholder who is very difficult to handle„escalate issues for no reasons and at times is unrealistic. Though this stakeholder is very difficult to manage, however, he is also an extremely important stakeholder and can 't be made unhappy. While the team member puts in a lot of effort to ma8ethe project successful, but he/she is not getting any±uccess. This is -leading to demotivation & frustration. As a team manager, what would you do to handle this situation considering Oat, only he can be aligned to him basis the technical expertise the team member brings.",
+                "card_content": "This is a sample Situation Card 10",
                 "option": [
-                    "Guide him through examples, as to how the stake holder should Oe managed.",
-                    "Keep yourself involved indirectly in all the stakeholder discussion and keep all communication well documented.",
-                    "Guide him to understand the stakeholder style, build rapport and study the expectation to better cater to him.",
-                    "Ask him to prioritize the stakeholder, and at times when he feels he cannot manage, reach out to you (his manager)."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May have a positive people score, as the team member is being guided to handle the situation & not being taken away the responsibility of directly managing the stakeholder May not have any direct customer & business impact.",
-                    "Negative on people, as it may lead to a feeling of not trusting the team member & questioning his calibre to deal with difficult stakeholders. While business & customer may have a positive effect, because of manager's direct involvement.",
-                    "Positive at all fronts, as Team Member is getting a structured support to deal with the situation which will keep him engaged & get a sense of being a valued employee, Business will have a groomed resource to handle such situations while the manager is away or even if they look at successor for the role, Customer is happy because , the team member is able to adapt himself as per his expectations.",
-                    "May not have any effect on business & people, as there is not much change in the way things are being handled. May have a positive effect at customer, as he gets the priority & the manager pitch in as & when required."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
+                    "1",
                     "1",
                     "1",
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1",
-                    "-1",
                     "1",
-                    "0"
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "0",
                     "1",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "2",
-                    "2",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "-1",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "As you wre involved directly with the stakeholder, in the short run, business went up. But in the long run, your team member did not shape up and could not handle business well.",
-                    "Your team member has built confidence and skills in managing the stakeholder and business is growing.",
-                    ""
-                ]
             },
             {
                 "id": "11",
@@ -582,7 +544,7 @@
                 "score_customer": [
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1"
                 ],
                 "score_business": [
@@ -596,132 +558,120 @@
             {
                 "id": "12",
                 "type": "s",
-                "card_content": "Your manager is an extremely busy man ånd located in a different office. He is a good human being, but likes to keep all authority with him. You realize that most of your time goes in chasing him for his approvalF and guidanee. He has just given you a feedback, that you do not communicate with him enough and are not showing desired results.",
+                "card_content": "This is a sample Situation Card 12",
                 "option": [
-                    "Request a meeting with him and have a heart to heart requesting his support.",
-                    "Seek advice from your manager'S manager on how to deal with the situation.",
-                    "Make a structured plan on how you intend to work on the feedback and how you will improve the communication gap between your manager and you.",
-                    "Use new technology to ensure there is smooth flow of communication and no time lost due to unavailability- e.g. WhatsApp communication /skype."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May have a positive effect at people front, as there is a direct communication between both of them. May have a neutral effect on customer & business as there is no concrete action planning to deal with the issue.",
-                    "A negative impact at people front, as there is a clear bypass to skip manager, which may create a lot of negativity & uncordial future working relationships. While this may have no effect on the customer & business directly.",
-                    "May work well at people & business front. As it is a self driven plan to improve & make a structured plan to effectively deal with the situation without pin-pointing anyone. It will also improve the business score because of the increase in the work efficiency. While it may not have a direct effect on customer score.",
-                    "May lead to a win -win situation at all fronts-People, Customer, Business.  People because no pin pointing; Customer because of exposure to more communication channels & ease of responding anytime, from anywhere and business, as no time is wasted due to delay."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
-                    "0",
+                    "1",
+                    "1",
+                    "1",
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1",
-                    "-1",
+                    "1",
                     "1",
                     "1"
                 ],
                 "score_business": [
-                    "0",
+                    "1",
                     "1",
                     "1",
                     "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
             },
             {
                 "id": "13",
                 "type": "s",
-                "card_content": "Suresh is one of the best technical resource you have in your team. He is an experienced resource who is extremely proficient in his craft. You have a team of 4 people including Suresh. An extremely prestigious assignment has been given to your team which needs high levels of collaboration and delivery on slim timelines. The rest of the team has refused to work with Suresh, due to his poor interpersonal skills. What will you do?",
+                "card_content": "This is a sample Situation Card 13",
                 "option": [
-                    "Speak to the team and ensure they understand, that they must work together as Suresh is an important part of the team and brings clear strengths to the team which can't be done by anyone else.",
-                    "Have a one on one feedback session with each team member helping them understand the dynamics of the team and the project to convince them to cooperate.",
-                    "Clearly define the responsibility of each of the team member in the project and give the responsibility with least interaction with the other team members to Suresh.",
-                    "Take the entire team out for lunch and run a game to break the ice and help others know Suresh beyond, what they know of him."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May lead to a negative impact because of directive approach to deal with the situation rather than rationalizing & guiding the team members appropriately. No direct impact on customer & business.",
-                    "Positive at people front, as their concern was heard and was appropriately handled with explanations.",
-                    "No effect at people front. However, positive effect at Customer & Business because of improved work efficiency due to cordial team dynamics.",
-                    "Positive at people front, as everyone in the team get's a sense of being wanted including suresh & it may result in a better team relationships even for similar future projects."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "-1",
+                "score_person": [
                     "1",
-                    "0",
+                    "1",
+                    "1",
                     "1"
                 ],
                 "score_business": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "-1",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "-1",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "As Suresh's expertise and experience are not being used optimally in the project, customer and business confidence goes down.",
-                    ""
-                ]
             },
             {
                 "id": "14",
@@ -734,7 +684,7 @@
                 "score_customer": [
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1"
                 ],
                 "score_business": [
@@ -748,67 +698,61 @@
             {
                 "id": "15",
                 "type": "s",
-                "card_content": "You have a woman employee in the team, who is pregnant. Despite being on the family way, her performance-is outstanding & she never says no to the extra responsibilities handed over to her. However, post returning from the maternity leave, she is not able to put in the same amount of effort as earlier as she is juggling between work Cbeing a new mother. She is determined to continue to work and feels it is just a matter time. However, you as a team manager are in a fix as your performance is dependent on the performance of your teåm & if any single person is not contributing, it impacg your deliverables. What will you do?",
+                "card_content": "This is a sample Situation Card 15",
                 "option": [
-                    "You will ask others in the team o extend themselves to bridge the gap, till she is able to contribute at full potential.",
-                    "You must be realistic and hence will have the conversation with her very factually stating the dip in performance and Its Impact on results, allowing her to prioritize.",
-                    "You will temporarily put in an additional resource/ intern along with the employee in question to assist her, so she can focus on activities that impact results.",
-                    "Advise her to take a sabbatical for some-time and get back in the team once her child is a little older or when she has managed a good support system while she is away at work."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "May lead to negative People & business score because, others in the team may feel over burdened & it may back their own deliverables because of the extra work. While there is no direct impact on customer.",
-                    "Negative people score, reflects insensitivity towards people issues can lead to reduced employee morale & engagement level. While neutral effect on Customer & business as someone else in the team or may be a new team member could handle the same.",
-                    "Positive impact on People & Customer. People because, she feels valued & secure as an employee and it gives her a space to balance all fronts personal/work effectively. Customer because,  she will be able to focus  on customer's as there is  an internal resource ( intern ) to manage some activities.  Business will have a negative impact due to an extra cost (Intern).",
-                    "May have a neutral effect at people front as she may not want to take a break. May have negative impact on Customer & Business. Customer because, the new member may have to start from scratch to build customer connect & Business because of loss of trained resource."
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "0",
-                    "0",
                     "1",
-                    "-1"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "-1",
-                    "-1",
+                "score_person": [
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "-1",
-                    "0",
-                    "-1",
-                    "-1"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    "The presence of the intern helped the woman employee prioritize her work and get a hold back on her role. She is performing well now and business is increasing.",
-                    ""
-                ]
             },
             {
                 "id": "16",
@@ -821,7 +765,7 @@
                 "score_customer": [
                     "1"
                 ],
-                "score_people": [
+                "score_person": [
                     "1"
                 ],
                 "score_business": [
@@ -835,57 +779,61 @@
             {
                 "id": "17",
                 "type": "s",
-                "card_content": "You are a team manager and have a team ynember, who has an extremely good rapport with your manager (means you skip manager). You have observed his work and feels that his performance is not up to the mark & he needs improvement. You want to put him in the Performance Improvement Plan. However, there is a resistance-from your manager. Despite furnishing enough data points, he tells you to give him more time. However, you have already given him enough time, feedback & support. And it has started effecting the team deliverables. What would you dot",
+                "card_content": "This is a sample Situation Card 17",
                 "option": [
-                    "Give regular feedback to the team member on gaps identified with a limited time opportunity to improve. Wait and watch for some time before you go to your manager again.",
-                    "Have a word with your manager and put pressure on him to allow you to put the concerned member on PIP.",
-                    "Run a feedback session with concerned team member along with your manager to win his confidence and support in your suggestion."
+                    "This is the first option of sample Situation Card 1 A",
+                    "This is the first option of sample Situation Card 1 B",
+                    "This is the first option of sample Situation Card 1 C",
+                    "This is the first option of sample Situation Card 1 D"
                 ],
                 "feedback": [
-                    "It may have a neutral effect on the team member, as he has already been given feedback many times. Customer & Business may have a negative score. Customer because of his low performance & business because of inadequate utilization of the resource.",
-                    "May work negative at people front, because the Team member is being refused to, another opportunity to improve.  Neutral on Customer, as he works under guidance with frequent reviews to ensure no negative impact at customer front. It may lead to positive impact on Business as the corrective action is being taken to improve performance & incase of otherwise, it may lead to his exit.",
-                    "It may not have any effect at People, Customer & business Score, as he has already been given feedback many times. Also Customer & Business may not have a direct impact "
+                    "This is the feedback of sample Situation Card 1 A",
+                    "This is the feedback of sample Situation Card 1 B",
+                    "This is the feedback of sample Situation Card 1 C",
+                    "This is the feedback of sample Situation Card 1 D"
                 ],
                 "score_customer": [
-                    "-1",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "score_people": [
-                    "0",
-                    "-1",
-                    "0"
+                "score_person": [
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "score_business": [
-                    "-1",
                     "1",
-                    "0"
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_after_week": [
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_customer": [
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_people": [
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
                 "long_term_impact_on_business": [
-                    "0",
-                    "0",
-                    "0"
+                    "1",
+                    "1",
+                    "1",
+                    "1"
                 ],
-                "long_term_feedback": [
-                    "",
-                    "",
-                    ""
-                ]
             }
         ],
         "group": [
