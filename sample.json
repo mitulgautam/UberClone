@@ -1,872 +1,870 @@
 {
-    "training": {
-        "id": "1",
-        "org": {
-            "id": "1",
-            "name": "Navyug",
-            "email": "navyugindo@navyugindo.com",
-            "contact_person_name": "Sanjeev Kumar",
-            "location": "Noida",
-            "type_of_industry": "Service",
-            "contact_number": "9654706347"
-        },
-        "trainer": {
-            "id": "1",
-            "name": "Mitul Gautam",
-            "contact_number": "9654706347",
-            "email": "mitul.gautam@navyuginfo.com"
-        },
-        "game": [
-            {
-                "id": "1",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 1",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "2",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 2",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "3",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 3",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "4",
-                "type": "c",
-                "card_content": "This is a sample Chance Card 1",
-                "option": [],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A"
-                ],
-                "score_customer": [
-                    "1"
-                ],
-                "score_person": [
-                    "1"
-                ],
-                "score_business": [
-                    "1"
-                ],
-                "long_term_impact_after_week": [],
-                "long_term_impact_on_customer": [],
-                "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
-            },
-            {
-                "id": "5",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 5",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "6",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 6",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "7",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 7",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "8",
-                "type": "c",
-                "card_content": "This is a sample Chance Card 2",
-                "option": [],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A"
-                ],
-                "score_customer": [
-                    "1"
-                ],
-                "score_person": [
-                    "1"
-                ],
-                "score_business": [
-                    "1"
-                ],
-                "long_term_impact_after_week": [],
-                "long_term_impact_on_customer": [],
-                "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
-            },
-            {
-                "id": "9",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 9",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "10",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 10",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "11",
-                "type": "c",
-                "card_content": "This is a sample Chance Card 3",
-                "option": [],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A"
-                ],
-                "score_customer": [
-                    "1"
-                ],
-                "score_person": [
-                    "1"
-                ],
-                "score_business": [
-                    "1"
-                ],
-                "long_term_impact_after_week": [],
-                "long_term_impact_on_customer": [],
-                "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
-            },
-            {
-                "id": "12",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 12",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "13",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 13",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "14",
-                "type": "c",
-                "card_content": "This is a sample Chance Card 4",
-                "option": [],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A"
-                ],
-                "score_customer": [
-                    "1"
-                ],
-                "score_person": [
-                    "1"
-                ],
-                "score_business": [
-                    "1"
-                ],
-                "long_term_impact_after_week": [],
-                "long_term_impact_on_customer": [],
-                "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
-            },
-            {
-                "id": "15",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 15",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            },
-            {
-                "id": "16",
-                "type": "c",
-                "card_content": "This is a sample Chance Card 5",
-                "option": [],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A"
-                ],
-                "score_customer": [
-                    "1"
-                ],
-                "score_person": [
-                    "1"
-                ],
-                "score_business": [
-                    "1"
-                ],
-                "long_term_impact_after_week": [],
-                "long_term_impact_on_customer": [],
-                "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
-            },
-            {
-                "id": "17",
-                "type": "s",
-                "card_content": "This is a sample Situation Card 17",
-                "option": [
-                    "This is the first option of sample Situation Card 1 A",
-                    "This is the first option of sample Situation Card 1 B",
-                    "This is the first option of sample Situation Card 1 C",
-                    "This is the first option of sample Situation Card 1 D"
-                ],
-                "feedback": [
-                    "This is the feedback of sample Situation Card 1 A",
-                    "This is the feedback of sample Situation Card 1 B",
-                    "This is the feedback of sample Situation Card 1 C",
-                    "This is the feedback of sample Situation Card 1 D"
-                ],
-                "score_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_person": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "score_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_after_week": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_customer": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_people": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-                "long_term_impact_on_business": [
-                    "1",
-                    "1",
-                    "1",
-                    "1"
-                ],
-            }
-        ],
-        "group": [
-            {
-                "id": "1",
-                "name": "",
-                "org_id": "1",
-                "department": "",
-                "email": "mitul.gautam@navyuginfo.com",
-                "work_level": "",
-                "total_exp": "",
-                "age": ""
-            },
-            {
-                "id": "2",
-                "name": "",
-                "org_id": "1",
-                "department": "",
-                "email": "mitul.gautam@navyuginfo.com",
-                "work_level": "",
-                "total_exp": "",
-                "age": ""
-            },
-            {
-                "id": "3",
-                "name": "",
-                "org_id": "1",
-                "department": "",
-                "email": "mitul.gautam@navyuginfo.com",
-                "work_level": "",
-                "total_exp": "",
-                "age": ""
-            }
-        ]
-    }
+	"training": {
+		"id": "1",
+		"org": {
+			"id": "1",
+			"name": "Navyug",
+			"email": "navyugindo@navyugindo.com",
+			"contact_person_name": "Sanjeev Kumar",
+			"location": "Noida",
+			"type_of_industry": "Service",
+			"contact_number": "9654706347"
+		},
+		"trainer": {
+			"id": "1",
+			"name": "Mitul Gautam",
+			"contact_number": "9654706347",
+			"email": "mitul.gautam@navyuginfo.com"
+		},
+		"game": [{
+				"id": "1",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 1",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "2",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 2",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "3",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 3",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "4",
+				"type": "c",
+				"card_content": "This is a sample Chance Card 1",
+				"option": [],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A"
+				],
+				"score_customer": [
+					"1"
+				],
+				"score_person": [
+					"1"
+				],
+				"score_business": [
+					"1"
+				],
+				"long_term_impact_after_week": [],
+				"long_term_impact_on_customer": [],
+				"long_term_impact_on_people": [],
+				"long_term_impact_on_business": []
+			},
+			{
+				"id": "5",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 5",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "6",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 6",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "7",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 7",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "8",
+				"type": "c",
+				"card_content": "This is a sample Chance Card 2",
+				"option": [],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A"
+				],
+				"score_customer": [
+					"1"
+				],
+				"score_person": [
+					"1"
+				],
+				"score_business": [
+					"1"
+				],
+				"long_term_impact_after_week": [],
+				"long_term_impact_on_customer": [],
+				"long_term_impact_on_people": [],
+				"long_term_impact_on_business": []
+			},
+			{
+				"id": "9",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 9",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "10",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 10",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "11",
+				"type": "c",
+				"card_content": "This is a sample Chance Card 3",
+				"option": [],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A"
+				],
+				"score_customer": [
+					"1"
+				],
+				"score_person": [
+					"1"
+				],
+				"score_business": [
+					"1"
+				],
+				"long_term_impact_after_week": [],
+				"long_term_impact_on_customer": [],
+				"long_term_impact_on_people": [],
+				"long_term_impact_on_business": []
+			},
+			{
+				"id": "12",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 12",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "13",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 13",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "14",
+				"type": "c",
+				"card_content": "This is a sample Chance Card 4",
+				"option": [],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A"
+				],
+				"score_customer": [
+					"1"
+				],
+				"score_person": [
+					"1"
+				],
+				"score_business": [
+					"1"
+				],
+				"long_term_impact_after_week": [],
+				"long_term_impact_on_customer": [],
+				"long_term_impact_on_people": [],
+				"long_term_impact_on_business": []
+			},
+			{
+				"id": "15",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 15",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			},
+			{
+				"id": "16",
+				"type": "c",
+				"card_content": "This is a sample Chance Card 5",
+				"option": [],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A"
+				],
+				"score_customer": [
+					"1"
+				],
+				"score_person": [
+					"1"
+				],
+				"score_business": [
+					"1"
+				],
+				"long_term_impact_after_week": [],
+				"long_term_impact_on_customer": [],
+				"long_term_impact_on_people": [],
+				"long_term_impact_on_business": []
+			},
+			{
+				"id": "17",
+				"type": "s",
+				"card_content": "This is a sample Situation Card 17",
+				"option": [
+					"This is the first option of sample Situation Card 1 A",
+					"This is the first option of sample Situation Card 1 B",
+					"This is the first option of sample Situation Card 1 C",
+					"This is the first option of sample Situation Card 1 D"
+				],
+				"feedback": [
+					"This is the feedback of sample Situation Card 1 A",
+					"This is the feedback of sample Situation Card 1 B",
+					"This is the feedback of sample Situation Card 1 C",
+					"This is the feedback of sample Situation Card 1 D"
+				],
+				"score_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_person": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"score_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_after_week": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_customer": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_people": [
+					"1",
+					"1",
+					"1",
+					"1"
+				],
+				"long_term_impact_on_business": [
+					"1",
+					"1",
+					"1",
+					"1"
+				]
+			}
+		],
+		"group": [{
+				"id": "1",
+				"name": "",
+				"org_id": "1",
+				"department": "",
+				"email": "mitul.gautam@navyuginfo.com",
+				"work_level": "",
+				"total_exp": "",
+				"age": ""
+			},
+			{
+				"id": "2",
+				"name": "",
+				"org_id": "1",
+				"department": "",
+				"email": "mitul.gautam@navyuginfo.com",
+				"work_level": "",
+				"total_exp": "",
+				"age": ""
+			},
+			{
+				"id": "3",
+				"name": "",
+				"org_id": "1",
+				"department": "",
+				"email": "mitul.gautam@navyuginfo.com",
+				"work_level": "",
+				"total_exp": "",
+				"age": ""
+			}
+		]
+	}
 }
