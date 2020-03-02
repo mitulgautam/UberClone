@@ -232,7 +232,12 @@
                 "long_term_impact_after_week": [],
                 "long_term_impact_on_customer": [],
                 "long_term_impact_on_people": [],
-                "long_term_impact_on_business": []
+                "long_term_impact_on_business": [],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
+                ]
             },
             {
                 "id": "5",
@@ -297,6 +302,614 @@
                     "In his bid to avoid conflict with team members, he does not escalate customer issues and they linger on. As such, business with them suffers.",
                     "The nature of customer service is monotonous. Your team member is bored and is unable to give his 100%. Hence business suffers. ",
                     "As he shies away from challenges, he does not take up stretch demands of customers and leaves them feeling dissatisfied."
+                ]
+            },
+            {
+                "id": "6",
+                "type": "s",
+                "card_content": "You have a high-pressure job with a very ambitious sales target set for your team.. Your team has been consistently performing well and meeting the. targets in the last two quarter. It has however, come to your notice that dueto the pressure your team members have been overpromisingto customers or sometimes mis-selling. What will you do?",
+                "option": [
+                    "Getinto a team meeting and strictly enforce intolerance towards mis-selling explaining consequences of it on a larger business landscape.",
+                    "Set a robust process, to mitigate mis-selling, which could also result in increasing the TAT for the closure of thesale, but helps in keeping up the brand image.",
+                    "Take serious action against one of the team member out of all, to set example among others."
+                ],
+                "feedback": [
+                    "Negative impact at people front, because of one way communication style rather than, diving deep into the facts & identifying mis-selling trigger's and taking appropriate corrective action. Neutral effect on customer. Business may have a negative impact due to loss of customer's due to mis-spelling.",
+                    "May have a positive impact from People and business perspective. People because of increased TAT to meet the  targets & business because of improved brand reputation. Neutral effect at customer front. ",
+                    "May have a negative impact at people & business front. People because of fear & lack of knowledge behind the rational, can be perceived as being biased as only one team member is getting penalized. Business because of loss of reputation & productivity loss "
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "score_people": [
+                    "-1",
+                    "1",
+                    "-1"
+                ],
+                "score_business": [
+                    "-1",
+                    "1",
+                    "-1"
+                ],
+                "long_term_impact_after_week": [
+                    "2",
+                    "0",
+                    "2"
+                ],
+                "long_term_impact_on_customer": [
+                    "1",
+                    "0",
+                    "2"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "1",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "As the process for enforcing strict rules of selling are enforced, there is better customer satisfaction and overall business margin picks up. ",
+                    "",
+                    "While the internal team gets demotivated, customers are really happy about your ethical standards and build confidence in you."
+                ]
+            },
+            {
+                "id": "7",
+                "type": "s",
+                "card_content": "The promotion cycle is around the corner & as per the HR guidelines only one of your team member can get promoted. However, there are two team members, who are eligible to get evaluated for the promotion. Both the team members are equally talented & are extremely critical to the team. It is mandatory for you to promote one from the team & there is no scope for an exception in the HR policy, What will you do?",
+                "option": [
+                    "Have a one on one with each and tactually discuss the assessment as well as the policy in play, while communicating the promotion or no promotion decision to the respective team merp&er.",
+                    "Propose perks to the other performer who did not get promoted e.g. foreign project, learning opportunity, some platform for leveraging his potential etc as means to balance and motivate the person.",
+                    "Since this is very tricky situation, hence, inform once the promotion results are out & then counsel the member who did not get promoted. Additionally, try to work out a functional promotion for the performer, even if designation may not be formally assigned and allow the team member to understand you recognize his work.",
+                    "Speak to the HR & other stakeholder, give him a challenging and high visibility business project and promise him that he will get promotion next year if he performs well."
+                ],
+                "feedback": [
+                    "The team member, who didn't get promoted will get demotivated & may question the  PMS process & system, effecting people score. Customer & business may have neutral effect.",
+                    "Positive people impact, as he/she is getting awarded / recognized in some way, if not promotion. Customer & business may not have any direct impact.",
+                    "Neutral effect at people front. while he didn't receive a formal promotion in interms of level but he gets a functional promotion, somewhere it nullifies the impact. Business & Customer has a positive impact as the team member works in the same team, with slightly higher motivation, leading to good customer experience & may increase the business volumes .",
+                    "Neutral people impact,  as there is no guaranteed promotion next year however, he gets a chance to be part of the important project which may have a positive impact at business & customer front , because he is a performing resource."
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "score_people": [
+                    "-1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                "score_business": [
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "8",
+                "type": "c",
+                "card_content": "This is a sample Chance Card 2",
+                "option": [],
+                "feedback": [
+                    "This is the feedback of sample Situation Card 1 A"
+                ],
+                "score_customer": [
+                    "1"
+                ],
+                "score_people": [
+                    "1"
+                ],
+                "score_business": [
+                    "1"
+                ],
+                "long_term_impact_after_week": [],
+                "long_term_impact_on_customer": [],
+                "long_term_impact_on_people": [],
+                "long_term_impact_on_business": [],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "9",
+                "type": "s",
+                "card_content": "It has been announced that your department will be merged with another department. This announcement, creates a lot of unrest within the team. Though you are a team manager, however, you still do not have enough information, to handle the queries of the team members, since there is a lot of ambiguity around. This news is creating alot of chaos in the team as there are many speculations about the job loss, 'change in role & structure, management change etc. Some ot the information may not be even true. However, it is stillsreating a panic within the team. What would you do to handle this situation to manage the panic?",
+                "option": [
+                    "Send a mail to all, asking them to not panic and reach out to you individually.",
+                    "Have one on one with a few influencers in the team and pass on the right feelers so others get the message.",
+                    "Address the concern in a town hall, with management sharing reasons for the change & future.",
+                    "Take team out for lunch to release the tension and informally have a Q&A organized to address the concerns."
+                ],
+                "feedback": [
+                    "Negative impact at people, as lot of questions remain unanswered , can lead to unhealthy assumptions / grapevine, leading to choes at people front. While it may not have an direct impact at customer end, however, Business can witness unrest because of the internal shuffling",
+                    "Negative at people front, as no direct communication can lead to uncertainly, also the messaging can vary depending upon the understanding of the influencers, hence many interpretations floating around. It may not have  direct customer/ business impact.",
+                    "Direct communication at townhall can have a neutral effect at all fronts.",
+                    "Allowing the team to ask questions without fear, giving importance to their concerns & addressing them can have positive affect on people as they feel valued. Business may have a positive impact as it may put rest to a lot of unnecessary rumours effectiviting the productivity of the team"
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "score_people": [
+                    "-1",
+                    "-1",
+                    "0",
+                    "1"
+                ],
+                "score_business": [
+                    "-1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "10",
+                "type": "s",
+                "card_content": "One of your team member is extreme& talented and is very good performer. However, he is little reserved. He has been assigned a stakeholder who is very difficult to handle„escalate issues for no reasons and at times is unrealistic. Though this stakeholder is very difficult to manage, however, he is also an extremely important stakeholder and can 't be made unhappy. While the team member puts in a lot of effort to ma8ethe project successful, but he/she is not getting any±uccess. This is -leading to demotivation & frustration. As a team manager, what would you do to handle this situation considering Oat, only he can be aligned to him basis the technical expertise the team member brings.",
+                "option": [
+                    "Guide him through examples, as to how the stake holder should Oe managed.",
+                    "Keep yourself involved indirectly in all the stakeholder discussion and keep all communication well documented.",
+                    "Guide him to understand the stakeholder style, build rapport and study the expectation to better cater to him.",
+                    "Ask him to prioritize the stakeholder, and at times when he feels he cannot manage, reach out to you (his manager)."
+                ],
+                "feedback": [
+                    "May have a positive people score, as the team member is being guided to handle the situation & not being taken away the responsibility of directly managing the stakeholder May not have any direct customer & business impact.",
+                    "Negative on people, as it may lead to a feeling of not trusting the team member & questioning his calibre to deal with difficult stakeholders. While business & customer may have a positive effect, because of manager's direct involvement.",
+                    "Positive at all fronts, as Team Member is getting a structured support to deal with the situation which will keep him engaged & get a sense of being a valued employee, Business will have a groomed resource to handle such situations while the manager is away or even if they look at successor for the role, Customer is happy because , the team member is able to adapt himself as per his expectations.",
+                    "May not have any effect on business & people, as there is not much change in the way things are being handled. May have a positive effect at customer, as he gets the priority & the manager pitch in as & when required."
+                ],
+                "score_customer": [
+                    "0",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "score_people": [
+                    "1",
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "score_business": [
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "2",
+                    "2",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "As you wre involved directly with the stakeholder, in the short run, business went up. But in the long run, your team member did not shape up and could not handle business well.",
+                    "Your team member has built confidence and skills in managing the stakeholder and business is growing.",
+                    ""
+                ]
+            },
+            {
+                "id": "11",
+                "type": "c",
+                "card_content": "This is a sample Chance Card 3",
+                "option": [],
+                "feedback": [
+                    "This is the feedback of sample Situation Card 1 A"
+                ],
+                "score_customer": [
+                    "1"
+                ],
+                "score_people": [
+                    "1"
+                ],
+                "score_business": [
+                    "1"
+                ],
+                "long_term_impact_after_week": [],
+                "long_term_impact_on_customer": [],
+                "long_term_impact_on_people": [],
+                "long_term_impact_on_business": [],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "12",
+                "type": "s",
+                "card_content": "Your manager is an extremely busy man ånd located in a different office. He is a good human being, but likes to keep all authority with him. You realize that most of your time goes in chasing him for his approvalF and guidanee. He has just given you a feedback, that you do not communicate with him enough and are not showing desired results.",
+                "option": [
+                    "Request a meeting with him and have a heart to heart requesting his support.",
+                    "Seek advice from your manager'S manager on how to deal with the situation.",
+                    "Make a structured plan on how you intend to work on the feedback and how you will improve the communication gap between your manager and you.",
+                    "Use new technology to ensure there is smooth flow of communication and no time lost due to unavailability- e.g. WhatsApp communication /skype."
+                ],
+                "feedback": [
+                    "May have a positive effect at people front, as there is a direct communication between both of them. May have a neutral effect on customer & business as there is no concrete action planning to deal with the issue.",
+                    "A negative impact at people front, as there is a clear bypass to skip manager, which may create a lot of negativity & uncordial future working relationships. While this may have no effect on the customer & business directly.",
+                    "May work well at people & business front. As it is a self driven plan to improve & make a structured plan to effectively deal with the situation without pin-pointing anyone. It will also improve the business score because of the increase in the work efficiency. While it may not have a direct effect on customer score.",
+                    "May lead to a win -win situation at all fronts-People, Customer, Business.  People because no pin pointing; Customer because of exposure to more communication channels & ease of responding anytime, from anywhere and business, as no time is wasted due to delay."
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "score_people": [
+                    "1",
+                    "-1",
+                    "1",
+                    "1"
+                ],
+                "score_business": [
+                    "0",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "13",
+                "type": "s",
+                "card_content": "Suresh is one of the best technical resource you have in your team. He is an experienced resource who is extremely proficient in his craft. You have a team of 4 people including Suresh. An extremely prestigious assignment has been given to your team which needs high levels of collaboration and delivery on slim timelines. The rest of the team has refused to work with Suresh, due to his poor interpersonal skills. What will you do?",
+                "option": [
+                    "Speak to the team and ensure they understand, that they must work together as Suresh is an important part of the team and brings clear strengths to the team which can't be done by anyone else.",
+                    "Have a one on one feedback session with each team member helping them understand the dynamics of the team and the project to convince them to cooperate.",
+                    "Clearly define the responsibility of each of the team member in the project and give the responsibility with least interaction with the other team members to Suresh.",
+                    "Take the entire team out for lunch and run a game to break the ice and help others know Suresh beyond, what they know of him."
+                ],
+                "feedback": [
+                    "May lead to a negative impact because of directive approach to deal with the situation rather than rationalizing & guiding the team members appropriately. No direct impact on customer & business.",
+                    "Positive at people front, as their concern was heard and was appropriately handled with explanations.",
+                    "No effect at people front. However, positive effect at Customer & Business because of improved work efficiency due to cordial team dynamics.",
+                    "Positive at people front, as everyone in the team get's a sense of being wanted including suresh & it may result in a better team relationships even for similar future projects."
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                "score_people": [
+                    "-1",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "score_business": [
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "-1",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "-1",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    "As Suresh's expertise and experience are not being used optimally in the project, customer and business confidence goes down.",
+                    ""
+                ]
+            },
+            {
+                "id": "14",
+                "type": "c",
+                "card_content": "This is a sample Chance Card 4",
+                "option": [],
+                "feedback": [
+                    "This is the feedback of sample Situation Card 1 A"
+                ],
+                "score_customer": [
+                    "1"
+                ],
+                "score_people": [
+                    "1"
+                ],
+                "score_business": [
+                    "1"
+                ],
+                "long_term_impact_after_week": [],
+                "long_term_impact_on_customer": [],
+                "long_term_impact_on_people": [],
+                "long_term_impact_on_business": [],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "15",
+                "type": "s",
+                "card_content": "You have a woman employee in the team, who is pregnant. Despite being on the family way, her performance-is outstanding & she never says no to the extra responsibilities handed over to her. However, post returning from the maternity leave, she is not able to put in the same amount of effort as earlier as she is juggling between work Cbeing a new mother. She is determined to continue to work and feels it is just a matter time. However, you as a team manager are in a fix as your performance is dependent on the performance of your teåm & if any single person is not contributing, it impacg your deliverables. What will you do?",
+                "option": [
+                    "You will ask others in the team o extend themselves to bridge the gap, till she is able to contribute at full potential.",
+                    "You must be realistic and hence will have the conversation with her very factually stating the dip in performance and Its Impact on results, allowing her to prioritize.",
+                    "You will temporarily put in an additional resource/ intern along with the employee in question to assist her, so she can focus on activities that impact results.",
+                    "Advise her to take a sabbatical for some-time and get back in the team once her child is a little older or when she has managed a good support system while she is away at work."
+                ],
+                "feedback": [
+                    "May lead to negative People & business score because, others in the team may feel over burdened & it may back their own deliverables because of the extra work. While there is no direct impact on customer.",
+                    "Negative people score, reflects insensitivity towards people issues can lead to reduced employee morale & engagement level. While neutral effect on Customer & business as someone else in the team or may be a new team member could handle the same.",
+                    "Positive impact on People & Customer. People because, she feels valued & secure as an employee and it gives her a space to balance all fronts personal/work effectively. Customer because,  she will be able to focus  on customer's as there is  an internal resource ( intern ) to manage some activities.  Business will have a negative impact due to an extra cost (Intern).",
+                    "May have a neutral effect at people front as she may not want to take a break. May have negative impact on Customer & Business. Customer because, the new member may have to start from scratch to build customer connect & Business because of loss of trained resource."
+                ],
+                "score_customer": [
+                    "0",
+                    "0",
+                    "1",
+                    "-1"
+                ],
+                "score_people": [
+                    "-1",
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "score_business": [
+                    "-1",
+                    "0",
+                    "-1",
+                    "-1"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    "The presence of the intern helped the woman employee prioritize her work and get a hold back on her role. She is performing well now and business is increasing.",
+                    ""
+                ]
+            },
+            {
+                "id": "16",
+                "type": "c",
+                "card_content": "This is a sample Chance Card 5",
+                "option": [],
+                "feedback": [
+                    "This is the feedback of sample Situation Card 1 A"
+                ],
+                "score_customer": [
+                    "1"
+                ],
+                "score_people": [
+                    "1"
+                ],
+                "score_business": [
+                    "1"
+                ],
+                "long_term_impact_after_week": [],
+                "long_term_impact_on_customer": [],
+                "long_term_impact_on_people": [],
+                "long_term_impact_on_business": [],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": "17",
+                "type": "s",
+                "card_content": "You are a team manager and have a team ynember, who has an extremely good rapport with your manager (means you skip manager). You have observed his work and feels that his performance is not up to the mark & he needs improvement. You want to put him in the Performance Improvement Plan. However, there is a resistance-from your manager. Despite furnishing enough data points, he tells you to give him more time. However, you have already given him enough time, feedback & support. And it has started effecting the team deliverables. What would you dot",
+                "option": [
+                    "Give regular feedback to the team member on gaps identified with a limited time opportunity to improve. Wait and watch for some time before you go to your manager again.",
+                    "Have a word with your manager and put pressure on him to allow you to put the concerned member on PIP.",
+                    "Run a feedback session with concerned team member along with your manager to win his confidence and support in your suggestion."
+                ],
+                "feedback": [
+                    "It may have a neutral effect on the team member, as he has already been given feedback many times. Customer & Business may have a negative score. Customer because of his low performance & business because of inadequate utilization of the resource.",
+                    "May work negative at people front, because the Team member is being refused to, another opportunity to improve.  Neutral on Customer, as he works under guidance with frequent reviews to ensure no negative impact at customer front. It may lead to positive impact on Business as the corrective action is being taken to improve performance & incase of otherwise, it may lead to his exit.",
+                    "It may not have any effect at People, Customer & business Score, as he has already been given feedback many times. Also Customer & Business may not have a direct impact "
+                ],
+                "score_customer": [
+                    "-1",
+                    "0",
+                    "0"
+                ],
+                "score_people": [
+                    "0",
+                    "-1",
+                    "0"
+                ],
+                "score_business": [
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "long_term_impact_after_week": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_customer": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_people": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_impact_on_business": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "long_term_feedback": [
+                    "",
+                    "",
+                    ""
                 ]
             }
         ],
