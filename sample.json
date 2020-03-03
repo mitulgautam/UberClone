@@ -949,132 +949,72 @@
             {
                 "id": "1",
                 "card_content": "Your team has landed a new project that you had been pitching for. You get 1 bonus point in Business Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "1"
-                ]
+                "score_customer": "0",
+                "score_people": "0",
+                "score_business": "1"
             },
             {
                 "id": "2",
                 "card_content": "Two team members have applied for leaves at the same time, one for his marriage and the other for exams. You have a negative impact on your team delivery this month you get minus 1 in Business Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "-1"
-                ]
+                "score_customer": "0",
+                "score_people": "0",
+                "score_business": "-1"
             },
             {
                 "id": "3",
                 "card_content": "You have an additional customer service intern assigned to your team. You get 1 bonus points in Customer Score.",
-                "score_customer": [
-                    "1"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "1",
+                "score_people": "0",
+                "score_business": "0"
             },
             {
                 "id": "4",
                 "card_content": "Its Diwali time and Diwali bonus has been distributed. You get 1 bonus in People Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "1"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "0",
+                "score_people": "1",
+                "score_business": "0"
             },
             {
                 "id": "5",
                 "card_content": "Your team has defaulted on submission deadlines of appraisal forms to HR. Your team gets 1 minus point in People Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "-1"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "0",
+                "score_people": "-1",
+                "score_business": "0"
             },
             {
                 "id": "6",
                 "card_content": "One of your customers is very unhappy and has escalated an issue to senior management. You get 1 minus point on Customer Score.",
-                "score_customer": [
-                    "-1"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "-1",
+                "score_people": "0",
+                "score_business": "0"
             },
             {
                 "id": "7",
                 "card_content": "Your company gets great review in the recent issue of business magazine. You get 1 bonus point in Customer Score.",
-                "score_customer": [
-                    "1"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "1",
+                "score_people": "0",
+                "score_business": "0"
             },
             {
                 "id": "8",
                 "card_content": "Your company gets very poor review in the recent issue of business magazine. You get 1 minus point in Customer Score.",
-                "score_customer": [
-                    "-1"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "0"
-                ]
+                "score_customer": "-1",
+                "score_people": "0",
+                "score_business": "0"
             },
             {
                 "id": "9",
                 "card_content": "Your suggestion on new product has been accepted. You get 1 bonus point in Business Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "1"
-                ]
+                "score_customer": "0",
+                "score_people": "0",
+                "score_business": "1"
             },
             {
                 "id": "10",
                 "card_content": "Your suggestion on a new business process improvisation has been rejected. You get 1 minus point in Business Score.",
-                "score_customer": [
-                    "0"
-                ],
-                "score_people": [
-                    "0"
-                ],
-                "score_business": [
-                    "-1"
-                ]
+                "score_customer": "0",
+                "score_people": "0",
+                "score_business": "-1"
             }
         ]
     }
