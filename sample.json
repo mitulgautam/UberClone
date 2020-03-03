@@ -19,7 +19,7 @@
         "game": [
             {
                 "id": "1",
-                "type": "c",
+                "type": "s",
                 "card_content": "You have joined a new organization 3 months ago. Your previous organization where you worked for 5 years, had a different work culture. The pace of work was very fast, processes were mature and people valued each other's time, meetings started on time and ended on mne etc. Thoughyou love your role and the brand of your current organization, you are in this constant state of frustration due to the work culture, what will you do?",
                 "option": [
                     "Keep patience, wait and watch, try to mould & adapt yourself to thegulture of the organization.",
@@ -83,7 +83,7 @@
                 ]
             },
             {
-                "id": "2",
+                "id": "c",
                 "type": "s",
                 "card_content": "You are managing a team of 6 people with different performance level, some are top performers, some medium & few low performers. Recently you had an annual budget meeting & in the meeting it was directed that the budget foc your department is reduced & you need to lay off two people.- The same is happening across your organization. What would you do in this situation?",
                 "option": [
