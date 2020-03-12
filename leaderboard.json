@@ -1,44 +1,49 @@
 {
     "data": [
         {
+            "id": "1",
             "name": "Team A",
             "people": "5",
             "business": "3",
             "customer": "4",
             "week": "3",
-            "total":"12"
+            "total": "12"
         },
         {
+            "id": "2",
             "name": "Team B",
             "people": "2",
             "business": "3",
             "customer": "-1",
             "week": "5",
-            "total":"4"
+            "total": "4"
         },
         {
+            "id": "3",
             "name": "Team C",
             "people": "5",
             "business": "1",
             "customer": "0",
             "week": "6",
-            "total":"6"
+            "total": "6"
         },
         {
+            "id": "4",
             "name": "Team D",
             "people": "5",
             "business": "3",
             "customer": "4",
             "week": "2",
-            "total":"12"
+            "total": "12"
         },
         {
+            "id": "5",
             "name": "Team E",
             "people": "1",
             "business": "-2",
             "customer": "4",
             "week": "4",
-            "total":"3"
+            "total": "3"
         }
     ]
 }
