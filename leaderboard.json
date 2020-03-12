@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"name": "Team A",
+		"people": "5",
+		"business": "3",
+		"customer": "4",
+		"week": "3"
+	}, {
+		"name": "Team B",
+		"people": "2",
+		"business": "3",
+		"customer": "-1",
+		"week": "5"
+	}, {
+		"name": "Team C",
+		"people": "5",
+		"business": "1",
+		"customer": "0",
+		"week": "6"
+	}, {
+		"name": "Team D",
+		"people": "5",
+		"business": "3",
+		"customer": "4",
+		"week": "2"
+	}, {
+		"name": "Team E",
+		"people": "1",
+		"business": "-2",
+		"customer": "4",
+		"week": "4"
+	}]
+}
